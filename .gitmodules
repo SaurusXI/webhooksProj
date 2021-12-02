@@ -1,0 +1,6 @@
+[submodule "webhooksAPI"]
+	path = webhooksAPI
+	url = https://github.com/SaurusXI/webhooksAPI.git
+[submodule "webhooksUI"]
+	path = webhooksUI
+	url = https://github.com/SaurusXI/webhooksUI.git
